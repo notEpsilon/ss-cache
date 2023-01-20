@@ -1,0 +1,20 @@
+{
+  "shards": [
+    {
+      "idx": 0,
+      "name": "shard-0",
+      "exposedAddress": {
+        "host": "127.0.0.1",
+        "port": 8080
+      }
+    },
+    {
+      "idx": 1,
+      "name": "shard-1",
+      "exposedAddress": {
+        "host": "127.0.0.1",
+        "port": 8081
+      }
+    }
+  ]
+}
