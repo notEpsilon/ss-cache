@@ -1,5 +1,5 @@
 # ss-cache
-Zero-dependency Distributed statically-sharded in-memory key-value cache based on a thread-safe generic LRU cache.
+Zero-dependency statically-sharded in-memory key-value cache based on a thread-safe generic LRU cache.
 
 ## Usage
 - clone the repo and run `go build` to get the binary.
